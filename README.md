@@ -1,5 +1,6 @@
 # fw-app-launcher
 
+## This repository is archived.  Please see the new location on GitLab: https://gitlab.com/flywheel-io/flywheel-apps/fw-app-launcher
 
 This project provides a cross-platform user interface to download, view, and produce application-specific workflows from selected data within a particular Flywheel instance.
 
